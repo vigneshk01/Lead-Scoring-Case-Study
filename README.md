@@ -1,3 +1,3 @@
 # Lead-Scoring-Case-Study
 
-Lead-Scoring-Case-Study in Python
+Lead-Scoring-Case-Study using Logistic Regression in Python
