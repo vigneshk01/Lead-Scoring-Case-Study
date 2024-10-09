@@ -14,7 +14,7 @@ As you can see, there are a lot of leads generated in the initial stage (top) bu
 
 X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with a higher lead score have a higher conversion chance and the customers with a lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
-**Data**  
+**Data**
 You have been provided with a leads dataset from the past with around 9000 data points. This dataset consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. The target variable, in this case, is the column ‘Converted’ which tells whether a past lead was converted or not wherein 1 means it was converted and 0 means it wasn’t converted. You can learn more about the dataset from the data dictionary provided in the zip folder at the end of the page. Another thing that you also need to check out are the levels present in the categorical variables. Many of the categorical variables have a level called 'Select' which needs to be handled because it is as good as a null value (think why?).
 
 ## **Goals of the Case Study**
@@ -29,9 +29,9 @@ There are quite a few goals for this case study:
 1. A well-commented Jupyter notebook with at least the logistic regression model, the conversion predictions and evaluation metrics.
 2. The word document filled with solutions to all the problems.
 3. The overall approach of the analysis in a presentation.
-    1. Mention the problem statement and the analysis approach briefly 
-    2. Explain the results in business terms
-    3. Include visualisations and summarise the most important results in the presentation
+   1. Mention the problem statement and the analysis approach briefly 
+   2. Explain the results in business terms
+   3. Include visualisations and summarise the most important results in the presentation
 4. A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
 
 You need to submit the following four components:
