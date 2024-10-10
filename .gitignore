@@ -1,8 +1,8 @@
 # project files
 *Lead+Scoring+Case+Study.zip
 *.excalidraw
-Leads-Data-Dictionary.pdf
-
+*Leads-Data-Dictionary.pdf
+*temp.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
