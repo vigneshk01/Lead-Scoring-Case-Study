@@ -3,6 +3,7 @@
 *.excalidraw
 *Leads-Data-Dictionary.pdf
 *temp.ipynb
+*.tldr
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
