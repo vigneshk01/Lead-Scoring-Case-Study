@@ -5,6 +5,7 @@
 *temp.ipynb
 *.tldr
 lscs-old.ipynb
+base.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
