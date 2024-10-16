@@ -7,7 +7,8 @@
 lscs-old.ipynb
 base.txt
 *.bak
-
+.jupyter/
+.virtual_documents/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
