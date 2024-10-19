@@ -1,0 +1,171 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="E-8dmCDbOu7I-tdQybPO">
+    <mxGraphModel dx="4464" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="za2NER_HLClORUWjl2TQ-74" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-2000" y="360" width="1120" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="419.68" width="320" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-24" target="za2NER_HLClORUWjl2TQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-24" value="Dummy Encoding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="496.18" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-26" target="za2NER_HLClORUWjl2TQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-26" value="Train and Test Split" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="557.1800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-28" target="za2NER_HLClORUWjl2TQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-28" value="Scaling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="617.1800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-30" target="za2NER_HLClORUWjl2TQ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-30" value="Base Model Fit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="677.1800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-38" target="za2NER_HLClORUWjl2TQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-31" target="za2NER_HLClORUWjl2TQ-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-43" y="589.6800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-31" value="Pvalue/VIF analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="859.6800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-34" value="Model Training - Prediciton&lt;div&gt;&amp;nbsp;Evaluation&lt;/div&gt;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;textDirection=vertical-rl;rotation=-90;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-1141.25" y="340.31" width="42.5" height="228.75" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-31" target="za2NER_HLClORUWjl2TQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-36" target="za2NER_HLClORUWjl2TQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-36" value="Test Data Prediction" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="979.6800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-38" value="Training Metrics generation" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="919.6800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-40" value="Test Metric generation" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="1039.68" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-43" target="za2NER_HLClORUWjl2TQ-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-187" y="713.6800000000001" as="sourcePoint" />
+            <mxPoint x="-1190" y="859.6800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-43" value="MFE" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1097.5" y="799.6800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;curved=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-45" target="za2NER_HLClORUWjl2TQ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-45" value="RFE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="737.1800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-47" target="za2NER_HLClORUWjl2TQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-47" value="Model fit" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;glass=0;shadow=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="799.6800000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-51" value="Retrain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="829.6800000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="520" width="240" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-2" target="za2NER_HLClORUWjl2TQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-2" value="Data Import" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="597.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-3" target="za2NER_HLClORUWjl2TQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-3" value="Data deduplication" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="657.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-5" target="za2NER_HLClORUWjl2TQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-5" value="Outlier Analysis/ capping" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="717.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-7" target="za2NER_HLClORUWjl2TQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-7" value="Column Renaming" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="777.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-9" value="Missing Value Imputation" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="837.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-32" value="Data Preprocessing" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;glass=0;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-1899.25" y="540" width="198.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="520" width="240" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-14" target="za2NER_HLClORUWjl2TQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-14" value="Univariate Anaysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="597.5" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-16" target="za2NER_HLClORUWjl2TQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-16" value="Segmented univariate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="657.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-18" target="za2NER_HLClORUWjl2TQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-18" value="Bivariate Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="717.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-20" target="za2NER_HLClORUWjl2TQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-20" value="Multivariate Anaysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="777.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-21" value="Top 10 Corr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="837.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-33" value="Exploratory Data Analysis" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-1579.25" y="540" width="198.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="za2NER_HLClORUWjl2TQ-43" target="za2NER_HLClORUWjl2TQ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-68" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="695" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-69" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="695" width="57" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="za2NER_HLClORUWjl2TQ-78" value="Logistic Regression" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1865" y="979.68" width="450" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
