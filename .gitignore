@@ -9,6 +9,8 @@ base.txt
 *.bak
 .jupyter/
 .virtual_documents/
+others/test*
+others/Untitled*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
