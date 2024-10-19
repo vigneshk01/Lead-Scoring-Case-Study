@@ -11,7 +11,7 @@ base.txt
 lscs-old.ipynb
 others/test*
 others/Untitled*
-
+others/Starter*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
