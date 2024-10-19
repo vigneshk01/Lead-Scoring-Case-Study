@@ -1,16 +1,17 @@
 # project files
-*Lead+Scoring+Case+Study.zip
-*.excalidraw
-*Leads-Data-Dictionary.pdf
-*temp.ipynb
-*.tldr
-lscs-old.ipynb
-base.txt
-*.bak
 .jupyter/
 .virtual_documents/
+*.bak
+*.excalidraw
+*.tldr
+*Lead+Scoring+Case+Study.zip
+*Leads-Data-Dictionary.pdf
+*temp.ipynb
+base.txt
+lscs-old.ipynb
 others/test*
 others/Untitled*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
