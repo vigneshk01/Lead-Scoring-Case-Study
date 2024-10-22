@@ -1,0 +1,9 @@
+Files for Submission:
+
+1. Notebook File (.ipynb)
+2. Summary Report PDF
+3. Case Study Approach PDF
+4. Assignment Subjective questions PDF
+
+Extra:
+1. Additional Approaches Notebook file (.ipynb)
