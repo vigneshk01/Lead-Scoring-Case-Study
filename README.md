@@ -4,10 +4,10 @@ Lead-Scoring-Case-Study using Logistic Regression in Python
 
 ## Designed and Developed by:
 
-- Lead: Vignesh Kumar
+- Lead: Vignesh Kumar (building the ML model)
 - Contributors: 
-  - Vinod Yadav
-  - Ujjwal Verma
+  - Vinod Yadav (PPT)
+  - Ujjwal Verma (commenting)
 
 ## Problem Statement
 
