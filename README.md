@@ -2,12 +2,12 @@
 
 Lead-Scoring-Case-Study using Logistic Regression in Python
 
-## Designed and Developed by:
+## Designed and Developed by
 
-- Lead: Vignesh Kumar (oversee project delivery, build ML model, provide requirements)
-- Contributors: 
+- Project Lead: Vignesh Kumar (oversee dev & project delivery, develop solution ,provide requirements)
+- Contributors:
   - Vinod Yadav (PPT)
-  - Ujjwal Verma (code comments)
+  - Ujjwal Verma (dev,code comments)
 
 ## Problem Statement
 
@@ -21,6 +21,6 @@ A company named X Education sells online courses to industry professionals. Alth
 ## **About the Dataset**
 
 - The dataset consists of 9000 data points. with various attributes.
-- The target variable, is the column ‘Converted’ - wherein 1 means it was converted and 0 means it wasn’t converted. 
-- Details of the features are provided in the data dictionary. 
+- The target variable, is the column ‘Converted’ - wherein 1 means it was converted and 0 means it wasn’t converted.
+- Details of the features are provided in the data dictionary.
 - Note: Some categorical variables has a level called 'Select' as good as a null value.
