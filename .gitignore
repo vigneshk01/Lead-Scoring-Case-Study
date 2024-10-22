@@ -9,10 +9,10 @@
 *temp.ipynb
 base.txt
 lscs-old.ipynb
-others/test*
-others/Untitled*
-others/Starter*
-others/spec_tag_analysis*
+other-project-files/test*
+other-project-files/Untitled*
+other-project-files/Starter*
+other-project-files/spec_tag_analysis*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
