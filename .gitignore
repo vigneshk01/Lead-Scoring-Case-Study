@@ -12,6 +12,8 @@ lscs-old.ipynb
 others/test*
 others/Untitled*
 others/Starter*
+others/spec_tag_analysis*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
